@@ -1,2 +1,2 @@
 ## Hi Everone! ##
-一个新手
+A beginner who is learning to use GitHub and Python. Please give me your guidance.
